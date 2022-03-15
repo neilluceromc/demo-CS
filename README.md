@@ -1,6 +1,5 @@
 # 2.0
 
-Finished Case Study
-Nasa loob na yung mga info kung ano yung mga block of codes na yon
+This program will get an input from the user to calculate a frequency table.
 
 ## 11/03/2022
